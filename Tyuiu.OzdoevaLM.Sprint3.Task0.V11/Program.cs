@@ -23,7 +23,7 @@ namespace Tyuiu.OzdoevaLM.Sprint3.Task0.V11
             Console.WriteLine("***************************************************************************");
 
             DataService ds = new DataService();
-            int value = 5;
+            int value = 5; 
             int startValue = 1;
             int stopValue = 10;
 
