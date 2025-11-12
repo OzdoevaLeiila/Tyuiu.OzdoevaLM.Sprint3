@@ -2,7 +2,7 @@
 
 namespace Tyuiu.OzdoevaLM.Sprint3.Task6.V14.Lib
 {
-    public class DataService : ISprint3Task6V11
+    public class DataService : ISprint3Task6V14
     {
         public int GetSumTheDivisors(int startValue, int stopValue)
         {
